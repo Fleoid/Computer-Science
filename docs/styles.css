@@ -11,8 +11,7 @@ h2 {
   font-family: "Helvetica", serif;
 }
 h3 {
-  font-family: "Brush Script MT", serif;
-  font-style: italic;
+  font-family: "Helvetica", serif;
 }
 a {
   color: Black;
@@ -75,7 +74,7 @@ img {
     box-sizing: border-box;
     padding: 10px;
     margin-top: 10px;
-    font-family: "Trebuchet MS", sans-serif;
+    font-family: "Helvetica", sans-serif;
 }
 .card:hover {
     border-color: #1E90FF;
